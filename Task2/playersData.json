@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "age": 33,
+    "team": "India",
+    "odi_career": "2008-present",
+    "one_day_carrier": "2008-present",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnc5WzhI2eJPpbZEPp-3mcfpdlt_BM3eLJw&usqp=CAU"
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "age": 34,
+    "team": "India",
+    "odi_career": "2007-present",
+    "one_day_carrier": "2007-present",
+    "photo": "https://wallpapers.com/images/high/rohit-sharma-smiling-for-national-team-9rhw30lxb71cpav6.webp"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "age": 28,
+    "team": "India",
+    "odi_career": "2016-present",
+    "one_day_carrier": "2016-present",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnJ6rbOWgAl9o-uzPi9M7eml5MLzC1155REQ&usqp=CAU"
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Batsman",
+    "age": 29,
+    "team": "India",
+    "odi_career": "2016-present",
+    "one_day_carrier": "2016-present",
+    "photo": "https://i.pinimg.com/564x/3e/27/e5/3e27e55104c7278fd640f63f7ce8f1ba.jpg"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-rounder",
+    "age": 33,
+    "team": "India",
+    "odi_career": "2009-present",
+    "one_day_carrier": "2009-present",
+    "photo": "https://i.pinimg.com/564x/78/96/30/789630022d7ebfec7c8410af2d961366.jpg"
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "age": 31,
+    "team": "India",
+    "odi_career": "2016-present",
+    "one_day_carrier": "2016-present",
+    "photo": "https://i.pinimg.com/736x/11/48/bd/1148bd77f79083e6cebdd4c1189da0d8.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "age": 28,
+    "team": "India",
+    "odi_career": "2016-present",
+    "one_day_carrier": "2016-present",
+    "photo": "https://i.pinimg.com/564x/27/09/53/270953305c314e045833ca925caec869.jpg"
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "age": 35,
+    "team": "India",
+    "odi_career": "2010-present",
+    "one_day_carrier": "2010-present",
+    "photo": "https://i.pinimg.com/564x/0d/3a/4d/0d3a4d06c460b6b2b3fc4ac27f5cc330.jpg"
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "age": 31,
+    "team": "India",
+    "odi_career": "2013-present",
+    "one_day_carrier": "2013-present",
+    "photo": "https://i.pinimg.com/736x/b9/39/95/b93995c4dbbe62e02fb7806c3bc25149.jpg"
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Wicketkeeper",
+    "age": 25,
+    "team": "India",
+    "odi_career": "2017-present",
+    "one_day_carrier": "2017-present",
+    "photo": "https://i.pinimg.com/564x/e6/d2/26/e6d22646f63e41bf6d4c9d96a8dad163.jpg"
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "age": 33,
+    "team": "India",
+    "odi_career": "2011-present",
+    "one_day_carrier": "2011-present",
+    "photo": "https://i.pinimg.com/564x/6a/ff/aa/6affaa0a06d508d3e6ee7d43953bb15f.jpg"
+  },
+  {
+    "name": "Ishant Sharma",
+    "role": "Bowler",
+    "age": 34,
+    "team": "India",
+    "odi_career": "2007-present",
+    "one_day_carrier": "2007-present",
+    "photo": "https://i.pinimg.com/564x/c0/39/a4/c039a4e544fe8112b1f9bf1810726b92.jpg"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "age": 27,
+    "team": "India",
+    "odi_career": "2017-present",
+    "one_day_carrier": "2017-present",
+    "photo": "https://i.pinimg.com/564x/73/04/83/730483d9f8a27a099dc2fffdb7becf6e.jpg"
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "age": 32,
+    "team": "India",
+    "odi_career": "2012-present",
+    "one_day_carrier": "2012-present",
+    "photo": "https://i.pinimg.com/564x/a9/6d/0b/a96d0bbd8cb438403105ee8aaf840cfb.jpg"
+  },
+  {
+    "name": "Axar Patel",
+    "role": "All-rounder",
+    "age": 28,
+    "team": "India",
+    "odi_career": "2014-present",
+    "one_day_carrier": "2014-present",
+    "photo": "https://i.pinimg.com/564x/2b/fa/cc/2bfaccf33df42891c106be84c55222b5.jpg"
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All-rounder",
+    "age": 22,
+    "team": "India",
+    "odi_career": "2017-present",
+    "one_day_carrier": "2017-present",
+    "photo": "https://i.pinimg.com/564x/67/31/48/6731488ccc6b0fe496b1d872eab9038f.jpg"
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "age": 29,
+    "team": "India",
+    "odi_career": "2018-present",
+    "one_day_carrier": "2018-present",
+    "photo": "https://i.pinimg.com/564x/74/3c/72/743c7286a4b74f1543a1a107ae621c5a.jpg"
+  },
+  {
+    "name": "Shardul Thakur",
+    "role": "Bowler",
+    "age": 30,
+    "team": "India",
+    "odi_career": "2017-present",
+    "one_day_carrier": "2017-present",
+    "photo": "https://i.pinimg.com/736x/d9/65/b7/d965b7c5e0298e5bbb3613c9cbe820ca.jpg"
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "role": "Bowler",
+    "age": 30,
+    "team": "India",
+    "odi_career": "2020-present",
+    "one_day_carrier": "2020-present",
+    "photo": "https://i.pinimg.com/564x/4f/55/5b/4f555b97ed9034a57f1c40d9a71fe9af.jpg"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "age": 31,
+    "team": "India",
+    "odi_career": "2021-present",
+    "one_day_carrier": "2021-present",
+    "photo": "https://i.pinimg.com/564x/6d/21/6b/6d216b43e6ebbab223a11ace19bddea3.jpg"
+  }
+]
